@@ -4,8 +4,8 @@
 
 # see also https://crate.io
 
-latest: git://github.com/crate/docker-crate@0.49.2
-0.48: git://github.com/crate/docker-crate@0.48.7
-0.48.7: git://github.com/crate/docker-crate@0.48.7
-0.49: git://github.com/crate/docker-crate@0.49.2
-0.49.2: git://github.com/crate/docker-crate@0.49.2
+latest: git://github.com/crate/docker-crate@5d8def399e34f34fefeb5ff9189bfb90878af542
+0.48: git://github.com/crate/docker-crate@5ecc8010324a3a0a63522b56474ab49d5b6b1e9b
+0.48.7: git://github.com/crate/docker-crate@5ecc8010324a3a0a63522b56474ab49d5b6b1e9b
+0.49: git://github.com/crate/docker-crate@5d8def399e34f34fefeb5ff9189bfb90878af542
+0.49.3: git://github.com/crate/docker-crate@5d8def399e34f34fefeb5ff9189bfb90878af542
